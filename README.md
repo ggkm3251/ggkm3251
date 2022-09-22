@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing](https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing)
 
-- ⚡ Fun fact **A distant, intelligent, alien race could tell us stuff that might shock us, probably from the zeta reticuli**
+- ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
