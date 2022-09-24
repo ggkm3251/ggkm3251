@@ -10,17 +10,18 @@
 
 - 🔭 I’m currently working on [ALCIENT](https://alcientpics.netlify.app/)
 
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m currently learning **UI/UX Design and Ruby on Rails**
 
 - 📝 I regularly write articles on [https://medium.com/@glenn.mwangi](https://medium.com/@glenn.mwangi)
 
-- 💬 Ask me about **react, ruby, laravel and vue**
+- 💬 Ask me about **react, ruby on rails, laravel and vue**
 
 - 📫 How to reach me **glennkamau2@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing](https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing)
 
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
+- ⚡ Fun fact **Interested_in: The Zeta Reticuli | Do you think intelligent life exists outside of Earth?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
