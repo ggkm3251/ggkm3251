@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [ALCIENT](https://alcientpics.netlify.app/)
 
-- 🌱 I’m currently learning **UI/UX Design and Ruby on Rails**
+- 🌱 I’m currently learning **UI/UX Design**
 
 - 📝 I regularly write articles on [https://medium.com/@glenn.mwangi](https://medium.com/@glenn.mwangi)
 
