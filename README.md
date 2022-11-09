@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/glenn" target="blank"><img src="https://img.shields.io/twitter/follow/glenn?logo=twitter&style=for-the-badge" alt="glenn" /></a> </p>
 
-- 🔭 I’m currently working on [ALCIENT](https://alcientpics.netlify.app/)
+- 🔭 I’m currently working on [Funzo](http://schedule-frontend-funzo.vercel.app/)
 
 - 🌱 I’m currently learning **UI/UX Design**
 
@@ -18,10 +18,8 @@
 
 - 📫 How to reach me **glennkamau2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing](https://docs.google.com/document/d/1bUlg5v41-xraWBnSuoVHHoYQ2l_SY-RNfvqDdxwEU_g/edit?usp=sharing)
-
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
-- ⚡ Fun fact **Interested_in: The Zeta Reticuli | Do you think intelligent life exists outside of Earth?**
+- ⚡ Fun fact **Do you think intelligent life exists outside of Earth?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
