@@ -19,7 +19,7 @@
 - 📫 How to reach me **glennkamau2@gmail.com**
 
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
-- ⚡ Fun fact **Art and Astronomy Aficionado, GGMU😂**
+- ⚡ Fun fact **Art and Astronomy Aficionado, GGMU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
