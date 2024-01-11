@@ -14,12 +14,12 @@
 
 - 📝 I regularly write articles on [https://medium.com/@glenn.mwangi](https://medium.com/@glenn.mwangi)
 
-- 💬 Ask me about **react, ruby on rails, laravel and vue**
+- 💬 Ask me about **javascript, react, ruby on rails, php, laravel and vue**
 
 - 📫 How to reach me **glennkamau2@gmail.com**
 
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
-- ⚡ Fun fact **Do you think intelligent life exists outside of Earth?**
+- ⚡ Fun fact **Art and Astronomy Aficionado, GGMU😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
