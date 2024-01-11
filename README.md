@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/19216453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19216453" height="30" width="40" /></a>
 <a href="https://codesandbox.com/glennkamau2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="glennkamau2" height="30" width="40" /></a>
 <a href="https://medium.com/@glenn.mwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@glenn.mwangi" height="30" width="40" /></a>
-<a href="https://community.dhis2.org/u/glenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dhis2.svg" alt="@glenn" height="30" width="40" /></a>  
+<a href="https://community.dhis2.org/u/glenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dhis.svg" alt="@glenn" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
