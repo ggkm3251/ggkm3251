@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Glenn Mwangi</h1>
 <h3 align="left">Fullstack Developer </h3>
-<img align="center" alt="Coding" width="160" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggkm3251&label=Profile%20views&color=0e75b6&style=flat" alt="ggkm3251" /> </p>
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggkm3251&show_icons=true&locale=en&layout=compact" alt="ggkm3251" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggkm3251&show_icons=true&locale=en" alt="ggkm3251" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ggkm3251&show_icons=true&locale=en" alt="ggkm3251" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggkm3251&" alt="ggkm3251" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ggkm3251&" alt="ggkm3251" /></p>
