@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glenn Mwangi</h1>
-<h3 align="center">A passionate fullstack software developer from Kenya</h3>
+<h3 align="center">Fullstack Developer </h3>
 <img align="right" alt="Coding" width="160" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggkm3251&label=Profile%20views&color=0e75b6&style=flat" alt="ggkm3251" /> </p>
@@ -8,22 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/glenn" target="blank"><img src="https://img.shields.io/twitter/follow/glenn?logo=twitter&style=for-the-badge" alt="glenn" /></a> </p>
 
-- 🔭 I’m currently working on [Funzo](http://schedule-frontend-funzo.vercel.app/)
+- 💬 Ask me about **anything..lol**
 
-- 🌱 I’m currently learning **UI/UX Design**
-
-- 📝 I regularly write articles on [https://medium.com/@glenn.mwangi](https://medium.com/@glenn.mwangi)
-
-- 💬 Ask me about **javascript, react, ruby on rails, php, laravel and vue**
-
-- 📫 How to reach me **glennkamau2@gmail.com**
-
-- ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
-- ⚡ Fun fact **Art and Astronomy Aficionado, GGMU**
+- 📫  Reach me at **glennkamau2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ggkm3251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ggkm3251" height="30" width="40" /></a>
+<a href="https://dev.to/ggkm3251" target="blank"></a>
 <a href="https://twitter.com/GlennKamau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glenn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/glenn-mwangi-a52b52218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/glenn-mwangi-a52b52218/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19216453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19216453" height="30" width="40" /></a>
